@@ -3,4 +3,4 @@ If you have free version of DaVinci Resolve, you can't use mainstream media code
 
 This simple script uses ffmpeg (be sure to have it installed) to convert .mp4 files to .mov and vice versa.
 
-The easiest way is to put the script into working dir, type ./ResolveConverter, and let it convert all of the files. The script creates converted directory where the converted videos are stored.
+The easiest way is to put the script into working dir, type ./ResolveConverter, and let it convert all of the files. The script creates "converted" directory where the final videos are stored.
